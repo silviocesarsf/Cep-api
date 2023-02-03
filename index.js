@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 function consultaEndereco() {
     let cep = document.querySelector('#cep').value
     const url = `https://viacep.com.br/ws/${cep}/json/`
